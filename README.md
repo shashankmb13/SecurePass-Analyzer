@@ -29,7 +29,7 @@ A simple yet powerful Python-based GUI application to generate secure passwords,
 1. Make sure you have Python installed (version 3.6 or above recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SecurePass-Analyzer.git
+   git clone https://github.com/mbshashank13/SecurePass-Analyzer.git
    cd SecurePass-Analyzer
 
 
